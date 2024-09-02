@@ -3,7 +3,7 @@
 ## Project Overview
 
 This is an open-source project that integrates Three.js with Node.js to send data from `main.js` to a server, and visualize that data using Grafana.The present file mainly provides an environment for linux arm64.
-
+急速分拣2-1725252223801.json is the main panel for grafana,you can import it easily.
 ## Technology Stack
 
 - **Three.js**: A JavaScript library used to create and display 3D graphics.
