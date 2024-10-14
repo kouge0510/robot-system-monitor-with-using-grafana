@@ -1,4 +1,4 @@
-# Three.js + Node.js Service with Grafana Integration
+![image](https://github.com/user-attachments/assets/00ca30ab-f5fe-4d8e-8320-7f98bd5a8987)# Three.js + Node.js Service with Grafana Integration
 
 ## Project Overview
 
@@ -9,13 +9,14 @@ This is an open-source project that integrates Three.js with Node.js to send dat
 - **Three.js**: A JavaScript library used to create and display 3D graphics.
 - **Node.js**: A JavaScript runtime used for building server-side applications.
 - **Grafana**: An open-source platform for monitoring and visualizing data.
+- **Vite.js**:  A fast build tool for modern web projects, simplifying development and production workflows.
 
 ## Features
 
 1. **Three.js 3D Visualization**: Utilizes Three.js to create 3D graphics and scenes.
 2. **Node.js Service**: A Node.js server that sends data from `main.js` to a remote server.
 3. **Grafana Integration**: Visualizes and monitors the data received from the Node.js service using Grafana.
-
+4. **Grafana Integration**:
 ## Installation and Setup
 
 ### 1. Clone the Repository
