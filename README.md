@@ -21,14 +21,14 @@ This is an open-source project that integrates Three.js with Node.js to send dat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kouge0510/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kouge0510/robot-system-monitor-with-using-grafana.git
+cd robot-system-monitor-with-using-grafana
 ```
 
 ### 2. Install Dependencies
 
 ```bash
-npm install
+npm install three
 ```
 
 ### 3. Configure the Node.js Service
